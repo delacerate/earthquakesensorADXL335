@@ -2,11 +2,11 @@
 // dibuat oleh Iska Darman pada tanggal 24 juni 2020
 // UNIVERSITAS TRUNOJOYO MADURA
 // Prodi MEKATRONIKA 
-
-#include <EEPROM.h>
-#include <EEPROMAnything.h>
+//bisa menggunakan library dari sini https://github.com/codedecaybr/ADXL335
+#include <EEPROM.h> 
+#include <EEPROMAnything.h> // ada di folder lib
 #include <Wire.h>
-#include <LiquidCrystal_I2C.h>
+#include <LiquidCrystal_I2C.h> // Library LCD I2C
 //#include <SoftwareSerial.h>
 //#include <DFPlayer_Mini_Mp3.h>  
  
