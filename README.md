@@ -8,3 +8,6 @@ coding sudah disediakan dan tinggal clone saja dan digunakan untuk library eepro
 sketch ada di dalamnya
 untuk wiring bisa mengikuti sesuai dengan gambar yang ada pada wiring diagram. juka menggunakan arduino uno R3 tinggal menyesuaikan sesuai dengan pin yang ada pada wiring diagram
 ![gambar](https://user-images.githubusercontent.com/53360759/144241166-dfef2502-cdef-4d65-be99-4dfca0fac4e5.png)
+
+untuk keterangan lebih lengkap dapat menonton video dibawah
+[youtube] https://youtu.be/mvaMeJn6i_A
